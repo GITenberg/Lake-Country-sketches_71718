@@ -1,11 +1,16 @@
 _repo: Lake-Country-sketches_71718
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71718-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Rawnsley, H. D.
     gutenberg_agent_id: '56350'
     url: http://www.gutenberg.org/2009/agents/56350
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71718#Lake-Country-sketches
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71718'
